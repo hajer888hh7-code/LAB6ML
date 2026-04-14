@@ -1,8 +1,8 @@
 # # Ecommerce Customers Analysis using Linear Regression
 
-## 📌 Project Overview
+## 📌 Lab Overview
 
-This project applies Linear Regression to analyze an Ecommerce dataset and predict customer yearly spending.
+This lab applies Linear Regression to analyze an Ecommerce dataset and predict customer yearly spending.
 
 ---
 
